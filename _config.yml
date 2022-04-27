@@ -26,6 +26,7 @@ search: true
 markdown: kramdown
 # theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
+repository: deepak-kapoor/deekap
 # Outputting
 permalink: /:slug
 paginate: 7 # amount of posts to show
